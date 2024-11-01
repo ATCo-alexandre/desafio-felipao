@@ -21,7 +21,7 @@ elif 7001 <= xp <= 8000:
     nivel_heroi = "Platina"
 elif 8001 <= xp <= 9000:
     nivel_heroi = "Ascendente"
-elif 9001 <= xp <= 1000:
+elif 9001 <= xp <= 10000:
     nivel_heroi == "Imortal"
 else:
     nivel_heroi = "Radiante"
